@@ -1,0 +1,2 @@
+# Model-for-Multi-sourcing-Decision-making-of-Large-Orders
+This project is a simulation model for multi-sourcing decision-making, used to test the effects of splitting large orders under different procurement strategies (varying supplier types, price fluctuations, seasonal demand, etc.). The project will build a simulation model based on multi-agent simulation (MAS), starting from  the simplest scenario.
